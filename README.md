@@ -41,6 +41,7 @@ After Next, define the fields for the custom app.
 
 ### Step 6:
  Choose the Image Source for the Custom App Logo.
+
 Note: Before inserting an image for the logo you need to use the following procedure to add an image to the image gallery.
  
 ### Step 7: 
